@@ -1,18 +1,25 @@
-Hey, welcome to my profile! 👋
+# 🌸 Welcome to My GitHub Profile! 🌸
 
-👋 My name is Harnit and I’m an aspiring data analyst based in London
+Hi, I’m Harnit—an aspiring software engineer with a passion for problem-solving, learning, and creating innovative solutions. 💻✨
 
-👀 I recently created my GitHub profile, so stay tuned as there will be much to see here 
+## 🌟 About Me
+- 🤓 Excited to explore the world of programming and AI product development.
+- 🔤 My current skills include Python, JavaScript, and SQL, and I’m eager to keep learning more.
+- 🏅 Recently completed:
+  - Data Technician Bootcamp (@FirebrandTraining)
+  - Python & Machine Learning MOOC Sprints (@CodeFirstGirls)
+- 🌱 Currently working on: Projects that help me grow my technical expertise and prepare for real-world challenges.
 
-🤖 SQL is my first Language; Python is my second. I decided to learn SQL and Python because solving and finding solutions has always been an interest of mine
+## 🎯 My Goals
+- 🚀 **Short-term**: Secure a Junior Software Engineer role where I can build, train, and deploy impactful solutions.
+- 🌍 **Long-term**: Use my skills to make a positive difference in industries like Aerospace, Renewables, and Electric Vehicles.
 
-💫 I’ve just completed the Data Technician Bootcamp through @FirebrandTraining and two MOOC sprints with @CodeFirstGirls in Python and Machine Learning 
+## 🎀 Fun Facts
+- ✨ My bucket list includes skydiving and having afternoon tea in every country! ☕✈️
+- 🌈 I bring positivity, creativity, and a dash of fun to every project and workspace.
 
-🌱 I recently started the SQL & Data course through @CodeFirstGirls where the final project will be on GitHub! 
+## 🌐 Let’s Connect!
+- 💼 [LinkedIn: Harnit Sarna](https://www.linkedin.com/in/harnitsarna/)
+- 📧 Email: [harnitsarna@gmail.com](mailto:harnitsarna@gmail.com)
 
-🥅 a few things on my bucket list are Skydiving, having afternoon tea in every country, and landing an internship/full time role in the data field (if you have this power, please hire me 🥹)
-
-💞️ I’m looking for a role where I can put my passion into practise, plus I can't wait to bring my positivity, creativity and light into a workspace 
-
-📫 You can reach me through my LinkedIn: www.linkedin.com/in/harnit-s or Email: harnitsarna@gmail.com
-
+Feel free to explore my repositories and join me on my exciting journey into software engineering. Thanks for stopping by! 🌸🌟
