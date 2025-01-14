@@ -7,8 +7,7 @@ Hi, I’m Harnit—an aspiring software engineer with a passion for problem-solv
 - 🔤 My current skills include Python, JavaScript, and SQL, and I’m eager to keep learning more.
 - 🏅 Recently completed:
   - Data Technician Bootcamp (@FirebrandTraining)
-  - Python & Machine Learning MOOC Sprints (@CodeFirstGirls)
-- 🌱 Currently working on: Projects that help me grow my technical expertise and prepare for real-world challenges.
+- 🌱 Currently working on: Intro to Python MOOC Sprint with CodeFirstGirls and projects that help me grow my technical expertise and prepare for real-world challenges.
 
 ## 🎯 My Goals
 - 🚀 **Short-term**: Secure a Junior Software Engineer role where I can build, train, and deploy impactful solutions.
@@ -16,10 +15,10 @@ Hi, I’m Harnit—an aspiring software engineer with a passion for problem-solv
 
 ## 🎀 Fun Facts
 - ✨ My bucket list includes skydiving and having afternoon tea in every country! ☕✈️
-- 🌈 I bring positivity, creativity, and a dash of fun to every project and workspace.
+- ✨ I bring positivity, creativity, and a dash of fun to every project and workspace.
 
 ## 🌐 Let’s Connect!
 - 💼 [LinkedIn: Harnit Sarna](https://www.linkedin.com/in/harnitsarna/)
-- 📧 Email: [harnitsarna@gmail.com](mailto:harnitsarna@gmail.com)
+- 📧 Email: [harnitsarna@hotmail.com](mailto:harnitsarna@hotmail.com)
 
 Feel free to explore my repositories and join me on my exciting journey into software engineering. Thanks for stopping by! 🌸🌟
